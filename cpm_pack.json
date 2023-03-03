@@ -1,0 +1,8 @@
+{
+    "name": "sqrt",
+    "version": "0.1.0",
+    "url": "https://github.com/cpm-examples/sqrt",
+    "description": "A C++ library for calculating sqare roots",
+    "author": "YassenEfremov",
+    "license": ""
+}
